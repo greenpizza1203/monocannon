@@ -1,0 +1,7 @@
+export { Body } from 'cannon-es/src/objects/Body'
+export { Plane } from 'cannon-es/src/shapes/Plane'
+export { ContactMaterial } from 'cannon-es/src/material/ContactMaterial'
+export { Vec3 } from 'cannon-es/src/math/Vec3'
+export { Material } from 'cannon-es/src/material/Material'
+export { World } from 'cannon-es/src/world/World'
+export { Box } from 'cannon-es/src/shapes/Box'
