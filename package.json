@@ -1,6 +1,6 @@
 {
-  "name": "monocannon",
   "main": "monocannon.ts",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "cannon-es": "^0.15.1"
